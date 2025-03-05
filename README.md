@@ -49,7 +49,7 @@
 </details>
 
 <details>
-  <summary>相手のプロフィール詳細画面 [//profile-details?id={コード化ID}] </summary>
+  <summary>相手のプロフィール詳細画面 [/profile-details?id={コード化ID}] </summary>
 
   ![スクリーンショット 2025-03-05 011308](https://github.com/user-attachments/assets/2c61043f-b2b9-44ef-9cbf-97cc9de51af9)
 
